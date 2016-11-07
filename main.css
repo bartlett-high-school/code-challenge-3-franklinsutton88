@@ -1,4 +1,17 @@
 /* Put your css here for your table and page styling */
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
+}
+
+th {
+    text-align: left;
+}
+
 table {
-  border: none;
+    border-spacing: 5px;
 }
